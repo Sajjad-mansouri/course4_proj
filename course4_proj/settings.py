@@ -51,6 +51,7 @@ class Dev(Configuration):
         'django.contrib.staticfiles',
         #myapp
         'movies',
+        'gh',
     ]
 
     MIDDLEWARE = [
